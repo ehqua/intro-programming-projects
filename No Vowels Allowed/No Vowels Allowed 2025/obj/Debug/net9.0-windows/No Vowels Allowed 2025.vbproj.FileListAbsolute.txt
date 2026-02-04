@@ -1,0 +1,16 @@
+C:\Users\zach.t.younger\Desktop\My Projects\No Vowels Allowed 2025\No Vowels Allowed 2025\bin\Debug\net9.0-windows\No Vowels Allowed 2025.exe
+C:\Users\zach.t.younger\Desktop\My Projects\No Vowels Allowed 2025\No Vowels Allowed 2025\bin\Debug\net9.0-windows\No Vowels Allowed 2025.deps.json
+C:\Users\zach.t.younger\Desktop\My Projects\No Vowels Allowed 2025\No Vowels Allowed 2025\bin\Debug\net9.0-windows\No Vowels Allowed 2025.runtimeconfig.json
+C:\Users\zach.t.younger\Desktop\My Projects\No Vowels Allowed 2025\No Vowels Allowed 2025\bin\Debug\net9.0-windows\No Vowels Allowed 2025.dll
+C:\Users\zach.t.younger\Desktop\My Projects\No Vowels Allowed 2025\No Vowels Allowed 2025\bin\Debug\net9.0-windows\No Vowels Allowed 2025.pdb
+C:\Users\zach.t.younger\Desktop\My Projects\No Vowels Allowed 2025\No Vowels Allowed 2025\obj\Debug\net9.0-windows\No_Vowels_Allowed_2025.Form1.resources
+C:\Users\zach.t.younger\Desktop\My Projects\No Vowels Allowed 2025\No Vowels Allowed 2025\obj\Debug\net9.0-windows\No Vowels Allowed 2025.vbproj.GenerateResource.cache
+C:\Users\zach.t.younger\Desktop\My Projects\No Vowels Allowed 2025\No Vowels Allowed 2025\obj\Debug\net9.0-windows\No Vowels Allowed 2025.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zach.t.younger\Desktop\My Projects\No Vowels Allowed 2025\No Vowels Allowed 2025\obj\Debug\net9.0-windows\No Vowels Allowed 2025.AssemblyInfoInputs.cache
+C:\Users\zach.t.younger\Desktop\My Projects\No Vowels Allowed 2025\No Vowels Allowed 2025\obj\Debug\net9.0-windows\No Vowels Allowed 2025.AssemblyInfo.vb
+C:\Users\zach.t.younger\Desktop\My Projects\No Vowels Allowed 2025\No Vowels Allowed 2025\obj\Debug\net9.0-windows\No Vowels Allowed 2025.vbproj.CoreCompileInputs.cache
+C:\Users\zach.t.younger\Desktop\My Projects\No Vowels Allowed 2025\No Vowels Allowed 2025\obj\Debug\net9.0-windows\No Vowels Allowed 2025.dll
+C:\Users\zach.t.younger\Desktop\My Projects\No Vowels Allowed 2025\No Vowels Allowed 2025\obj\Debug\net9.0-windows\refint\No Vowels Allowed 2025.dll
+C:\Users\zach.t.younger\Desktop\My Projects\No Vowels Allowed 2025\No Vowels Allowed 2025\obj\Debug\net9.0-windows\No Vowels Allowed 2025.pdb
+C:\Users\zach.t.younger\Desktop\My Projects\No Vowels Allowed 2025\No Vowels Allowed 2025\obj\Debug\net9.0-windows\No Vowels Allowed 2025.genruntimeconfig.cache
+C:\Users\zach.t.younger\Desktop\My Projects\No Vowels Allowed 2025\No Vowels Allowed 2025\obj\Debug\net9.0-windows\ref\No Vowels Allowed 2025.dll
