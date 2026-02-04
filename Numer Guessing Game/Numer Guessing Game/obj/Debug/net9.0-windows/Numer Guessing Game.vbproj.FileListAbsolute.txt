@@ -1,0 +1,16 @@
+C:\Users\zach.t.younger\Desktop\My Projects\Numer Guessing Game\Numer Guessing Game\bin\Debug\net9.0-windows\Numer Guessing Game.exe
+C:\Users\zach.t.younger\Desktop\My Projects\Numer Guessing Game\Numer Guessing Game\bin\Debug\net9.0-windows\Numer Guessing Game.deps.json
+C:\Users\zach.t.younger\Desktop\My Projects\Numer Guessing Game\Numer Guessing Game\bin\Debug\net9.0-windows\Numer Guessing Game.runtimeconfig.json
+C:\Users\zach.t.younger\Desktop\My Projects\Numer Guessing Game\Numer Guessing Game\bin\Debug\net9.0-windows\Numer Guessing Game.dll
+C:\Users\zach.t.younger\Desktop\My Projects\Numer Guessing Game\Numer Guessing Game\bin\Debug\net9.0-windows\Numer Guessing Game.pdb
+C:\Users\zach.t.younger\Desktop\My Projects\Numer Guessing Game\Numer Guessing Game\obj\Debug\net9.0-windows\Numer_Guessing_Game.Form1.resources
+C:\Users\zach.t.younger\Desktop\My Projects\Numer Guessing Game\Numer Guessing Game\obj\Debug\net9.0-windows\Numer Guessing Game.vbproj.GenerateResource.cache
+C:\Users\zach.t.younger\Desktop\My Projects\Numer Guessing Game\Numer Guessing Game\obj\Debug\net9.0-windows\Numer Guessing Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zach.t.younger\Desktop\My Projects\Numer Guessing Game\Numer Guessing Game\obj\Debug\net9.0-windows\Numer Guessing Game.AssemblyInfoInputs.cache
+C:\Users\zach.t.younger\Desktop\My Projects\Numer Guessing Game\Numer Guessing Game\obj\Debug\net9.0-windows\Numer Guessing Game.AssemblyInfo.vb
+C:\Users\zach.t.younger\Desktop\My Projects\Numer Guessing Game\Numer Guessing Game\obj\Debug\net9.0-windows\Numer Guessing Game.vbproj.CoreCompileInputs.cache
+C:\Users\zach.t.younger\Desktop\My Projects\Numer Guessing Game\Numer Guessing Game\obj\Debug\net9.0-windows\Numer Guessing Game.dll
+C:\Users\zach.t.younger\Desktop\My Projects\Numer Guessing Game\Numer Guessing Game\obj\Debug\net9.0-windows\refint\Numer Guessing Game.dll
+C:\Users\zach.t.younger\Desktop\My Projects\Numer Guessing Game\Numer Guessing Game\obj\Debug\net9.0-windows\Numer Guessing Game.pdb
+C:\Users\zach.t.younger\Desktop\My Projects\Numer Guessing Game\Numer Guessing Game\obj\Debug\net9.0-windows\Numer Guessing Game.genruntimeconfig.cache
+C:\Users\zach.t.younger\Desktop\My Projects\Numer Guessing Game\Numer Guessing Game\obj\Debug\net9.0-windows\ref\Numer Guessing Game.dll
