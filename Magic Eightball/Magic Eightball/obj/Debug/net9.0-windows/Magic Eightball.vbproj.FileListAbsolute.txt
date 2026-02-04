@@ -1,0 +1,16 @@
+C:\Users\zach.t.younger\Desktop\My Projects\Magic Eightball\Magic Eightball\bin\Debug\net9.0-windows\Magic Eightball.exe
+C:\Users\zach.t.younger\Desktop\My Projects\Magic Eightball\Magic Eightball\bin\Debug\net9.0-windows\Magic Eightball.deps.json
+C:\Users\zach.t.younger\Desktop\My Projects\Magic Eightball\Magic Eightball\bin\Debug\net9.0-windows\Magic Eightball.runtimeconfig.json
+C:\Users\zach.t.younger\Desktop\My Projects\Magic Eightball\Magic Eightball\bin\Debug\net9.0-windows\Magic Eightball.dll
+C:\Users\zach.t.younger\Desktop\My Projects\Magic Eightball\Magic Eightball\bin\Debug\net9.0-windows\Magic Eightball.pdb
+C:\Users\zach.t.younger\Desktop\My Projects\Magic Eightball\Magic Eightball\obj\Debug\net9.0-windows\Magic_Eightball.Form1.resources
+C:\Users\zach.t.younger\Desktop\My Projects\Magic Eightball\Magic Eightball\obj\Debug\net9.0-windows\Magic Eightball.vbproj.GenerateResource.cache
+C:\Users\zach.t.younger\Desktop\My Projects\Magic Eightball\Magic Eightball\obj\Debug\net9.0-windows\Magic Eightball.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zach.t.younger\Desktop\My Projects\Magic Eightball\Magic Eightball\obj\Debug\net9.0-windows\Magic Eightball.AssemblyInfoInputs.cache
+C:\Users\zach.t.younger\Desktop\My Projects\Magic Eightball\Magic Eightball\obj\Debug\net9.0-windows\Magic Eightball.AssemblyInfo.vb
+C:\Users\zach.t.younger\Desktop\My Projects\Magic Eightball\Magic Eightball\obj\Debug\net9.0-windows\Magic Eightball.vbproj.CoreCompileInputs.cache
+C:\Users\zach.t.younger\Desktop\My Projects\Magic Eightball\Magic Eightball\obj\Debug\net9.0-windows\Magic Eightball.dll
+C:\Users\zach.t.younger\Desktop\My Projects\Magic Eightball\Magic Eightball\obj\Debug\net9.0-windows\refint\Magic Eightball.dll
+C:\Users\zach.t.younger\Desktop\My Projects\Magic Eightball\Magic Eightball\obj\Debug\net9.0-windows\Magic Eightball.pdb
+C:\Users\zach.t.younger\Desktop\My Projects\Magic Eightball\Magic Eightball\obj\Debug\net9.0-windows\Magic Eightball.genruntimeconfig.cache
+C:\Users\zach.t.younger\Desktop\My Projects\Magic Eightball\Magic Eightball\obj\Debug\net9.0-windows\ref\Magic Eightball.dll
