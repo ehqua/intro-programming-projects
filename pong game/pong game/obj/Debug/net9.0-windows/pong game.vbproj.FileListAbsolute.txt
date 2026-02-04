@@ -1,0 +1,16 @@
+C:\Users\zach.t.younger\Desktop\My Projects\pong game\pong game\obj\Debug\net9.0-windows\pong_game.Form1.resources
+C:\Users\zach.t.younger\Desktop\My Projects\pong game\pong game\obj\Debug\net9.0-windows\pong game.vbproj.GenerateResource.cache
+C:\Users\zach.t.younger\Desktop\My Projects\pong game\pong game\obj\Debug\net9.0-windows\pong game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zach.t.younger\Desktop\My Projects\pong game\pong game\obj\Debug\net9.0-windows\pong game.AssemblyInfoInputs.cache
+C:\Users\zach.t.younger\Desktop\My Projects\pong game\pong game\obj\Debug\net9.0-windows\pong game.AssemblyInfo.vb
+C:\Users\zach.t.younger\Desktop\My Projects\pong game\pong game\obj\Debug\net9.0-windows\pong game.vbproj.CoreCompileInputs.cache
+C:\Users\zach.t.younger\Desktop\My Projects\pong game\pong game\bin\Debug\net9.0-windows\pong game.exe
+C:\Users\zach.t.younger\Desktop\My Projects\pong game\pong game\bin\Debug\net9.0-windows\pong game.deps.json
+C:\Users\zach.t.younger\Desktop\My Projects\pong game\pong game\bin\Debug\net9.0-windows\pong game.runtimeconfig.json
+C:\Users\zach.t.younger\Desktop\My Projects\pong game\pong game\bin\Debug\net9.0-windows\pong game.dll
+C:\Users\zach.t.younger\Desktop\My Projects\pong game\pong game\bin\Debug\net9.0-windows\pong game.pdb
+C:\Users\zach.t.younger\Desktop\My Projects\pong game\pong game\obj\Debug\net9.0-windows\pong game.dll
+C:\Users\zach.t.younger\Desktop\My Projects\pong game\pong game\obj\Debug\net9.0-windows\refint\pong game.dll
+C:\Users\zach.t.younger\Desktop\My Projects\pong game\pong game\obj\Debug\net9.0-windows\pong game.pdb
+C:\Users\zach.t.younger\Desktop\My Projects\pong game\pong game\obj\Debug\net9.0-windows\pong game.genruntimeconfig.cache
+C:\Users\zach.t.younger\Desktop\My Projects\pong game\pong game\obj\Debug\net9.0-windows\ref\pong game.dll
